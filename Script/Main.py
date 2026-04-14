@@ -1,3 +1,8 @@
+# ==============================================================================
+# VisionLab Pro: Optical Simulation & Analytical Suite
+# Description: Precise 3D Hierarchical FOV and Gaussian DOF Simulator
+# License: MIT
+# ==============================================================================
 import tkinter as tk
 from tkinter import ttk, messagebox
 import matplotlib.pyplot as plt

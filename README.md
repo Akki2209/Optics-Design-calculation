@@ -1,6 +1,6 @@
 # VisionLab: Precise 3D Optical & Scheimpflug Analytical Suite 🔭
 
-VisionLab Pro is a high-fidelity machine vision simulation tool designed for optical engineers and researchers. It provides a structured, three-stage analytical approach to modeling camera systems, including precise Gaussian Depth of Field (DOF) calculations and 3D Scheimpflug principle (sensor tilt) visualization.
+VisionLab is a high-fidelity machine vision simulation tool designed for optical engineers and researchers. It provides a structured, three-stage analytical approach to modeling camera systems, including precise Gaussian Depth of Field (DOF) calculations and 3D Scheimpflug principle (sensor tilt) visualization.
 
 ## 🚀 Core Functionalities
 
